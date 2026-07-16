@@ -20,4 +20,4 @@ spec:
         image: nginx:1.14.2
         ports:
         - containerPort: 81
-kkdevops.com
+kkdevops.com   kok-55555
